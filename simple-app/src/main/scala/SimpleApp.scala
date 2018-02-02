@@ -1,3 +1,5 @@
+// code from: https://spark.apache.org/docs/latest/quick-start.html
+
 import org.apache.spark.sql.SparkSession
 
 object SimpleApp {
